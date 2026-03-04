@@ -29,7 +29,7 @@ Excel-Data-Analytics-Project/
 └── 03-Dashboard/
     ├── README.md
     ├── CALL_CENTER_DASHBOARD.xlsx
-    └── dashboard-screenshot.png
+    └── Dashboard Overview-screenshot.PNG
 ```
 
 ---
