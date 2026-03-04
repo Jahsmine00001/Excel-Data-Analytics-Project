@@ -1,4 +1,4 @@
-# 02 - Pivot Tables
+# Pivot Tables
 
 ## Overview
 
