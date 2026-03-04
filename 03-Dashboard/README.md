@@ -8,7 +8,8 @@ A fully interactive Excel dashboard built on 1,000 call center records from 2023
 
 ## Dashboard Preview
 
-<img width="1315" height="626" alt="RO1" src="https://github.com/user-attachments/assets/aafdbb40-0f7b-4ffb-8f06-87d4bbaafd3b" />
+<img width="1316" height="624" alt="RO3" src="https://github.com/user-attachments/assets/04246a73-2c28-4bba-b7b2-32736df81394" />
+
 
 
 ---
