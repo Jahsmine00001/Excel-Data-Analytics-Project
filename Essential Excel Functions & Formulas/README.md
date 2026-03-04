@@ -1,4 +1,4 @@
-# 01 - Essential Excel Functions & Formulas
+# Essential Excel Functions & Formulas
 
 ## Overview
 
